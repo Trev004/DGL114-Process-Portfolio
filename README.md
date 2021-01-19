@@ -3,7 +3,7 @@
 A Process Portfolio for DGL 114, Intro to Mobile App Development
 
 ### Week 1
-**Activity 0101**
+**Activity 0101** <br>
 ![Good App PT1](DGL_114_Task1_Screenshot1.png)
 ![Good App PT2](DGL_114_Task1_Screenshot2.png)
 
