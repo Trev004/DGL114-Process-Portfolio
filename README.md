@@ -44,3 +44,40 @@ I consider **Spotify's** app to be more difficult to use, mostly due to the fact
 The Material.io article on [Iconography](https://material.io/design/iconography/product-icons.html) breaks down the "proper" way to design icons for one's brand. It gives a super basic breakdown of how to think about designing an icon, from what the material is made of, to how it interacts with a lighscource. Terminology relevant to the process is also covered and shown with examples, like *Finish, Material background and foreground, Colour and Shadows.* It also covers the do's and don'ts of icon design, though it does make you think about it, or at least brings it to your attention as to why you think something looks good. If you were to follow all of the do's presented on this page though, the icon you'd make would look very similar to everything Google has made and used for their icons.
 
 ### Week 3
+**Activity 0301: Reddit** <br>
+- Posts
+  - "My Profile"
+  - "Saved" -> comments/posts tabs
+  - History
+  - Pending
+  - Drafts
+  - Main page
+  - Communities/Custom Feeds page
+  - Chats page
+- Making Money
+  - Reddit Coins
+  - Reddit Premium
+  - Advertisement posts (click on them and it opens a new screen)
+- Settings
+  - Inbox
+  - Settings menu (it's full screen popup)
+  - Avatar Creation
+
+**Activity 0302: Spotify** <br>
+- onTouch
+  - Selecting Menus
+  - Selecting Songs
+  - Pause/Song controls
+  - Scrolling
+  - Navigating Menus
+- onDrag
+  - Unused
+- onLongClick
+  - From what I can tell this isn't used, surprisingly
+- onFocusChange
+  - When inputting searches for songs/artists
+  - When clicking on albums/playlists
+- Other?
+  - I know when spotify knows it's connected to a car's bluetooth it displays a huge version of the song control menu.
+
+### Week 4
