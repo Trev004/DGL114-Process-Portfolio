@@ -81,3 +81,10 @@ The Material.io article on [Iconography](https://material.io/design/iconography/
   - I know when spotify knows it's connected to a car's bluetooth it displays a huge version of the song control menu.
 
 ### Week 4
+**Activity 0401: Spotify** <br>
+The app from what I can tell is relatively flat, but not completely so. The main 3 pages for the app are Home, Search, and Your Library. The home page also has a settings button in the top right bringing you to the settings area. The search only has a camera option for scanning codes, and the Your Library page has 3 tabs, Playlists Artists and Albums. Also, this page has a podcasts page with 3 more tabs, Episodes, Downloads, Shows. There's no real central page from where every other page is accessed, instead that function is tied to the bottom bar.
+
+**Activity 0403** <br>
+The bottom app bar on a phone is mostly for navigation, but can have other options on it though google suggests no more than 4. When it comes to a Floating Action Button (FAB) they can be either above it layer wise, or inset (taking a chunk out of the bar) but shouldn't be placed physically above the bar as it makes it too hard to comfortably reach. They also suggest avoiding app navigation on the bar, specifically the home button/arrow for example, that should be on the top bar instead. Having a bottom bar doesn't mean you can't also have a top, though they shouldn't share any function (don't place a navigation menu on both top **and** bottom for example).
+
+### Week 5
