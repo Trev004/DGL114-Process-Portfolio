@@ -87,4 +87,18 @@ The app from what I can tell is relatively flat, but not completely so. The main
 **Activity 0403** <br>
 The bottom app bar on a phone is mostly for navigation, but can have other options on it though google suggests no more than 4. When it comes to a Floating Action Button (FAB) they can be either above it layer wise, or inset (taking a chunk out of the bar) but shouldn't be placed physically above the bar as it makes it too hard to comfortably reach. They also suggest avoiding app navigation on the bar, specifically the home button/arrow for example, that should be on the top bar instead. Having a bottom bar doesn't mean you can't also have a top, though they shouldn't share any function (don't place a navigation menu on both top **and** bottom for example).
 
-### Week 5
+### Week 5 
+**Activity 0502: Spotify** <br>
+- Touch events
+  - ACTION_DOWN for getting that "feel" of hitting a button. Songs and playlists shrink a little when tapped
+  - ACTION_MOVE for scrolling through lists, whether that being song lists or your library of playlists
+  - ACTION_UP I believe this is what actually gets used for tapping buttons and other objects, activating them
+- Touch gestures
+  - Tap. For hitting buttons
+  - Scroll. For scrolling through lists
+  - Drag. for re-arranging the song queue 
+  - Fling. Scrolls through almost the entire playlist without you needing to continue to scroll through
+
+**Activity 0503** <br>
+Material.io's article on [Dialogs](https://material.io/components/dialogs) essentially says that dialogs are important, but since they completely stop the flow of the app, they shouldn't be overused. Also mentioned in the article is *how* to make a dialog box that is easy to use and understand. Things such as "choose a good title" and how to place the accept/deny buttons are brought up. The general idea being, don't assume the user knows exactly what each and every button does. So make sure that the deny button for an email for example, says discard instead of "Discard? -> yes." More detailed information on **when** to use them is also brought up, with other notifications that don't *need* user input being better suited to a banner or snackbar popup.
+### Week 7
