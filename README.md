@@ -101,4 +101,13 @@ The bottom app bar on a phone is mostly for navigation, but can have other optio
 
 **Activity 0503** <br>
 Material.io's article on [Dialogs](https://material.io/components/dialogs) essentially says that dialogs are important, but since they completely stop the flow of the app, they shouldn't be overused. Also mentioned in the article is *how* to make a dialog box that is easy to use and understand. Things such as "choose a good title" and how to place the accept/deny buttons are brought up. The general idea being, don't assume the user knows exactly what each and every button does. So make sure that the deny button for an email for example, says discard instead of "Discard? -> yes." More detailed information on **when** to use them is also brought up, with other notifications that don't *need* user input being better suited to a banner or snackbar popup.
-### Week 7
+### Week 8
+**Activity 0801: Spotify**<br>
+- Shared Preferences: Spotify may use this when it comes to explicit songs. Though I know Reddit uses it when selecting dark theme or not.
+- App-specific Files: Spotify can store what your profile photo is without you needing to tell it on an app by app basis, for example my photo is from my pc but I can see it on my phone.
+- Shared Storage: Spotify may use this when you download a song? If not Spotify, I'd imagine Reddit uses it when you download or share something from the app.
+- Database: Maybe Spotify uses this to remember what you were listening to and where you were in the song?
+- Cloud: Spotify can use this to remember what song you were listening to across devices.
+
+**Activity 0803** <br>
+According to Material.io's article on [Lists](https://material.io/components/lists), the To-do list app does meet the expectations for lists. It's not perfect, it could be better if it had better markings/spacing between list entries but it's not bad. They say a list is easier to read if it has visuals to go along with it, but they're not strictly needed. The list also stays consistent, so for example it doesn't go from entry 1 to entry 6, and the sizing stays the same.
