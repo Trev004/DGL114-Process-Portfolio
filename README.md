@@ -111,3 +111,5 @@ Material.io's article on [Dialogs](https://material.io/components/dialogs) essen
 
 **Activity 0803** <br>
 According to Material.io's article on [Lists](https://material.io/components/lists), the To-do list app does meet the expectations for lists. It's not perfect, it could be better if it had better markings/spacing between list entries but it's not bad. They say a list is easier to read if it has visuals to go along with it, but they're not strictly needed. The list also stays consistent, so for example it doesn't go from entry 1 to entry 6, and the sizing stays the same.
+
+### Week 9
