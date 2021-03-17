@@ -113,3 +113,9 @@ Material.io's article on [Dialogs](https://material.io/components/dialogs) essen
 According to Material.io's article on [Lists](https://material.io/components/lists), the To-do list app does meet the expectations for lists. It's not perfect, it could be better if it had better markings/spacing between list entries but it's not bad. They say a list is easier to read if it has visuals to go along with it, but they're not strictly needed. The list also stays consistent, so for example it doesn't go from entry 1 to entry 6, and the sizing stays the same.
 
 ### Week 9
+**Activity 0902** <br>
+Based on what I've read in the [Fragments](https://developer.android.com/guide/fragments) page on the android site, it seems Fragments are kinda like mini activities that are in an app. So in the example they give, a navigation UI is shown, but the main content of the app is actually a fragment. It also seems like Fragments are meant to be more modular so you can use them in different places around the app. According to the [Creating a Fragment](https://developer.android.com/guide/fragments/create) page, you'll need to use the AndroidX Fragment library and the Maven repository, using build.gradle. You'd then create the fragment in it's own activity usually, with it's own class. You could then use it by adding it with XML or programmatically though using the ladder it's not automatically inserted.
+
+**Activity 0903** <br>
+The cards in Study helper aren't that bad, but still have room for improvement according to [Material Design's Card](https://material.io/components/cards#behavior) page. Adding a shadow can help the design feel more finished and make the card slightly easier to see. The cards could also have more info on them and then have different touch areas that will respond differently.
+### Week 10
