@@ -119,3 +119,17 @@ Based on what I've read in the [Fragments](https://developer.android.com/guide/f
 **Activity 0903** <br>
 The cards in Study helper aren't that bad, but still have room for improvement according to [Material Design's Card](https://material.io/components/cards#behavior) page. Adding a shadow can help the design feel more finished and make the card slightly easier to see. The cards could also have more info on them and then have different touch areas that will respond differently.
 ### Week 10
+**Activity 1002**<br>
+- You'll want to know *where* the notification is going to be, meaning where it's going to show up (on the lock screen, as a little dot above the app icon etc).
+- Whether or not it has an action such as reply/ignore could also be something you consider.
+- You can also set the notification to expand so more information is shown to the user.
+- You'll also want to know what the importance of it is, which affects how the user is alerted and how it interacts with Do Not Disturb mode. 
+
+**Activity 1003**<br>
+Info taken from [Material IO's page on notifications](https://material.io/design/platform-guidance/android-notifications.html)
+- You'll want to be careful to not spam the user with things that shouldn't be a notification, such as a "rate us now!" popup
+  - Just a thought, This happens **a lot** with apps so it's surprising to find it here under the don't section
+- Generally speaking, if the notification involves a person, the icon of the person goes on the left (though on the site it says the **right** side, the image shows it on the left). Details about the notification should go at the top, while the main content such as who sent it and what it says should go on the lower section. If an action is required it goes even after the main content section, sitting on the bottom.
+- A user should be able to swipe the notification away so that it's not in the way, *unless* it needs to be there, such as a music tab. A user can also tap on an indicator to see an expanded view of it where more info is shown. If a user taps on it but *not* on the indicator, they should be taken to the screen that relates to the notification.
+
+### Week 11
