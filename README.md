@@ -133,3 +133,18 @@ Info taken from [Material IO's page on notifications](https://material.io/design
 - A user should be able to swipe the notification away so that it's not in the way, *unless* it needs to be there, such as a music tab. A user can also tap on an indicator to see an expanded view of it where more info is shown. If a user taps on it but *not* on the indicator, they should be taken to the screen that relates to the notification.
 
 ### Week 11
+**Activity 1101**<br>
+| Animation Type  | Definition |
+| ------------- | ------------- |
+| Frame-by-frame  | Shows one frame of an image after eachother, so think like a movie   |
+| Tween  | Just changes the image to show animation, like rotations, moving it around, making it bigger or smaller etc  |
+| Animation Drawable  | Uses **AnimationDrawable** to produce a frame-by-frame animation  |
+| View Animation  | Uses **android.view.animation** to produce tween animations  |
+| Property Animation  | Changes something (some property) of an object over time using android.animation uses a **time interpolator**  |
+| Value Animator  | Creates a property animation by calculating values over time  |
+| Object Animator  | Subclass of ValueAnimator, allows object's properties to be animated without **AnimatorUpdateListener**  |
+| Animator Set  | Used to play multiple animations at the same time, one after the other, or on a delay  |
+
+**Activity 1103**<br>
+Info taken from [Material IO's page on notifications](https://material.io/design/motion/understanding-motion.html)<br>
+Motion can help inform users focus on what's important to the app, if used right. It can also help explain how certain elements interact with eachother through the use of Hierarchy. For example, if you select an item in a shop app and it goes into the bottom right corner, the user now sees a shopping cart icon there, informing them of the purpose of that icon. All of this is ignoring the use of animation to further your brand identity, so you can create clean playful icons to show that your brand is friendly and easy to use for example. Or even transition around the app in a unique way if your brand is trying to feel more refined. Animation can also be used on icons, as shown in [Material IO's page on Animated Icons](https://material.io/design/iconography/animated-icons.html). Using animation in this way can make the user enjoy the app more as it feels more polished and maybe more playful. It also helps the user better understand what is about to happen, such as a clock ringing for an alarm.
